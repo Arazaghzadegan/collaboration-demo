@@ -7,4 +7,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Create a branch
 - Submit a pull request
 Please ensure your PR passes CI before requesting review.
-
+making word more clrear to read and understand
